@@ -1,0 +1,43 @@
+body{
+	border:10px solid black;
+	color:black;
+	font-size: 25px;
+	height: 150px;
+	margin: 30px 0;
+	width: top;
+
+}
+h1{
+	color: blue;
+	font-size: 1.5em;
+	display: inline;
+}
+h2{
+	color: black;
+	font-size: 1em;
+	display:inline;
+}
+li{
+	color: red;
+	font-size: 25px;
+	font-family: fantasy;
+	text-shadow: 2px 2px yellow;
+	display: block;
+	margin: 10px 25px 12px 52px;
+}
+img{
+	width: 150px;
+}
+.liq{
+	color:blue;
+	display: inline-block;
+	vertical-align: top;
+}
+#tipo{ 
+	font-size: 50px;
+}
+#carne:hover{
+	text-shadow: 5px 5px
+	pink;
+	cursor: pointer;
+}
